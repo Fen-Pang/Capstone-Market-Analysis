@@ -13,7 +13,7 @@ How can customer demographics, buying patterns and product performance be used t
 4. Identify high-value customers based on spending and purchase frequency to improve customer retention.
 5. Develop a predictive model to identify customers with higher spending potential and support sales decisions.
 
-<h1 align="center">Retail Customer and Purchase Datasets</h1>
+<h1>Retail Customer and Purchase Datasets</h1>
 
 This repository contains a transactional dataset capturing retail sales performance for consumer electronics products throughout the first half of **2026**. The data includes granular details on order parameters, product categories, geographic regions, salesperson mapping, and promotional discounts.
 
