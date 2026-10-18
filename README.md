@@ -12,7 +12,7 @@ How can customer demographics, buying patterns and product performance be used t
 2. Identify best-selling products and their contribution to overall sales to improve product strategies.
 3. Analyse customer demographics and spending behaviour to improve customer targeting.
 4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
-5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
+5. Analyse customers' annual spending patterns to understand purchasing behaviour and identify sales opportunities.
 
 <h1>Retail Customer and Purchase Datasets📊</h1>
 
