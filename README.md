@@ -75,10 +75,11 @@ Initial checks and data cleaning were completed in Google Colab.
 - Converted `order_date` and `shipping_date` into datetime format.
 - Checked gender, country and product names. No obvious inconsistencies were found.
 
-## 🛠️ Usage Example (Python & Pandas) (To be updated)
+## 🛠️ Usage Example (Python & Pandas)
 
-Get started analyzing this dataset quickly using Python:
+Get started analysing these datasets using Python:
 
+```python
 import pandas as pd
 
 # Load datasets
@@ -100,6 +101,6 @@ purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d
 3. **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
 
 ## 🛠️ Tools Used
-1. Python (Google Colab) – Data cleaning, combining datasets, data analysis, charts and predictive modelling.
+1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
 2. Power BI – Creating interactive dashboards to analyse sales, customers and products.
 3. GitHub – Storing project files, documentation and tracking project progress.
