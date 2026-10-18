@@ -11,9 +11,7 @@ How can customer demographics, buying patterns and product performance be used t
 5. Develop a predictive model to identify customers with higher spending potential and support sales decisions.
 # Electronics Retail Sales Dataset 📊
 
-<p align="center">
- <img width="266" height="205" alt="image_1e16842e_edited" src="https://github.com/user-attachments/assets/699034ae-2410-4f06-ae9d-66dd5003594f" />
-</p>
+<add image>
 
 <h1 align="center">Electronics Retail Sales Dataset</h1>
 
