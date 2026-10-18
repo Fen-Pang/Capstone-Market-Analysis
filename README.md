@@ -31,22 +31,38 @@ These datasets support exploratory data analysis (EDA), sales performance analys
 
   Link to Jupyter Notebook in Google Colab: To be added later
    
-## 🗂️ Data Dictionary (To be updated)
+## 📁 Data Dictionary
+The project uses two datasets with a total of 18 features.
 
-The dataset consists of the following 10 features:
+### Customer Dataset (customer.csv)
+Contains 1,001 customers and 7 features.
 
 | Column Name | Data Type | Description | Example Value |
 | :--- | :--- | :--- | :--- |
-| **Order_ID** | String | A unique alphanumeric identifier for each transaction. | `ORD078` |
-| **Date** | Date | The transaction date formatted as `YYYY-MM-DD`. | `2026-04-09` |
-| **Product** | String | The name of the electronic item sold. | `Laptop`, `Mouse`, `Webcam` |
-| **Category** | String | The high-level category classification. | `Electronics` |
-| **Region** | String | The geographic sales territory. | `North`, `East`, `West`, `South` |
-| **Salesperson** | String | The name of the account representative. | `Alice`, `Bob`, `Charlie`, `Diana`, `Ethan` |
-| **Quantity** | Integer | The total units purchased in the order. | `7.0` |
-| **Unit_Price** | Float | The retail price per single unit of the product. | `997.67` |
-| **Discount** | Float | The promotional deduction percentage applied (0.0 to 0.15). | `0.15` (equivalent to 15%) |
-| **Sales** | Float | The final calculated gross revenue earned from the order. | `6983.69` |
+| **customer_id** | String | A unique ID for each customer. | `CS00001` |
+| **first_name** | String | The customer's first name. | `Isadora` |
+| **last_name** | String | The customer's last name. | `Porto` |
+| **gender** | String | The customer's gender. | `Female` |
+| **age** | Integer | The customer's age. | `19` |
+| **country** | String | The customer's country. | `Brazil` |
+| **income** | Integer | The customer's income. | `117196` |
+
+### Purchase Dataset (purchase.csv)
+Contains 50,000 purchases and 11 features.
+
+| Column Name | Data Type | Description | Example Value |
+| :--- | :--- | :--- | :--- |
+| **order_id** | String | A unique ID for each order. | `Order ID` |
+| **customer_id** | String | The ID of the customer who made the purchase. | `CS00001` |
+| **product_name** | String | The name of the product purchased. | `Furniture` |
+| **description** | String | Description of the product. | `Product description` |
+| **price** | Float | The price of the product. | `20.02` |
+| **discount** | Float | Discount applied to the purchase. | `0.25` (25%) |
+| **tax** | Float | Tax applied to the purchase. | `0.05` (5%) |
+| **order_date** | Date | The date the order was placed. | `DD/MM/YYYY` |
+| **quantity** | Integer | The number of units purchased. | `5` |
+| **shipping_cost** | Float | The shipping cost of the order. | `27.50` |
+| **shipping_date** | Date | The date the order was shipped. | `DD/MM/YYYY` |
 
 ## 🔍 Data Quality & Cleaning Notes (To be updated)
 
