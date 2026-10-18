@@ -79,18 +79,19 @@ Initial checks and data cleaning were completed in Google Colab.
 
 Get started analyzing this dataset quickly using Python:
 
-```python
 import pandas as pd
 
-# Load the dataset and drop completely empty structural lines
-df = pd.read_csv('sales_data.csv').dropna(how='all')
+# Load datasets
+customer = pd.read_csv('https://raw.githubusercontent.com/Fen-Pang/Capstone-Market-Analysis/main/customer.csv')
+purchase = pd.read_csv('https://raw.githubusercontent.com/Fen-Pang/Capstone-Market-Analysis/main/purchase.csv')
 
-# Convert date column to datetime object
-df['Date'] = pd.to_datetime(df['Date'])
+# Check datasets
+print(customer.shape)
+print(purchase.shape)
 
-# Quick view of total sales revenue by product
-revenue_by_product = df.groupby('Product')['Sales'].sum().sort_values(ascending=False)
-print("Revenue by Product:\n", revenue_by_product)
+# Convert dates
+purchase['order_date'] = pd.to_datetime(purchase['order_date'], format='%d/%m/%Y')
+purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d/%m/%Y')
 ```
 
 ## 💡 Potential Projects & Analysis Directions (To be updated)
