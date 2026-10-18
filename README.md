@@ -64,14 +64,16 @@ Contains 50,000 purchases and 11 features.
 | **shipping_cost** | Float | The shipping cost of the order. | `27.50` |
 | **shipping_date** | Date | The date the order was shipped. | `DD/MM/YYYY` |
 
-## 🔍 Data Quality & Cleaning Notes (To be updated)
+## 🔍 Data Quality & Cleaning Notes
 
-If you are using this dataset for data cleaning projects, please note that it intentionally contains realistic real-world data anomalies:
-* **Missing Values (NaNs):** Features like `Region`, `Salesperson`, `Unit_Price`, `Discount`, and `Sales` contain scattered missing fields (e.g., missing revenue values or unattributed regional boundaries).
-* **Calculated Columns:** The `Sales` column follows the general formula:  
-  \[\text{Sales} = (\text{Quantity} \times \text{Unit\_Price}) \times (1 - \text{Discount})\]
-  This relationship can be exploited to programmatically restore missing metrics.
-* **Empty Rows:** The raw structure contains blank structural divider rows (`,,,,,,,,,`) that should be filtered out during preprocessing.
+Initial checks and data cleaning were completed in Google Colab.
+
+- The customer dataset contains 1,001 records and 7 columns.
+- The purchase dataset contains 50,000 records and 11 columns.
+- No missing values were found in both datasets.
+- No duplicate rows were found in both datasets.
+- Converted `order_date` and `shipping_date` into datetime format.
+- Checked gender, country and product names. No obvious inconsistencies were found.
 
 ## 🛠️ Usage Example (Python & Pandas) (To be updated)
 
