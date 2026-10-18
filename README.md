@@ -1,4 +1,4 @@
-**Prepared By: Pang Fuh Yun (Fen)**
+**Prepared By: Pang Fuh Yun (Fen)**<br>
 **Datasets Used: Customer.csv and Purchase.csv**
 
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
