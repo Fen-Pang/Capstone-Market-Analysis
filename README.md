@@ -1,4 +1,7 @@
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
+# Retail Customer and Purchase Datasets 📊
+
+<add image>
 
 ## Business Problem Statement
 How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
@@ -9,9 +12,6 @@ How can customer demographics, buying patterns and product performance be used t
 3. Examine customer demographics and spending behaviour to improve customer targeting.
 4. Identify high-value customers based on spending and purchase frequency to improve customer retention.
 5. Develop a predictive model to identify customers with higher spending potential and support sales decisions.
-# Retail Customer and Purchase Datasets 📊
-
-<add image>
 
 <h1 align="center">Retail Customer and Purchase Datasets</h1>
 
