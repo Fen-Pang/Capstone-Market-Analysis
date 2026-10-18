@@ -1,3 +1,5 @@
+**Prepared by: Pang Fuh Yun (Fen)**
+
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
 <add image>
 
