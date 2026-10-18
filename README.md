@@ -31,7 +31,7 @@ These datasets support exploratory data analysis (EDA), sales performance analys
 
   Link to Jupyter Notebook in Google Colab: To be added later
    
-## 🗂️ Data Dictionary
+## 🗂️ Data Dictionary (To be updated)
 
 The dataset consists of the following 10 features:
 
@@ -48,7 +48,7 @@ The dataset consists of the following 10 features:
 | **Discount** | Float | The promotional deduction percentage applied (0.0 to 0.15). | `0.15` (equivalent to 15%) |
 | **Sales** | Float | The final calculated gross revenue earned from the order. | `6983.69` |
 
-## 🔍 Data Quality & Cleaning Notes
+## 🔍 Data Quality & Cleaning Notes (To be updated)
 
 If you are using this dataset for data cleaning projects, please note that it intentionally contains realistic real-world data anomalies:
 * **Missing Values (NaNs):** Features like `Region`, `Salesperson`, `Unit_Price`, `Discount`, and `Sales` contain scattered missing fields (e.g., missing revenue values or unattributed regional boundaries).
@@ -57,7 +57,7 @@ If you are using this dataset for data cleaning projects, please note that it in
   This relationship can be exploited to programmatically restore missing metrics.
 * **Empty Rows:** The raw structure contains blank structural divider rows (`,,,,,,,,,`) that should be filtered out during preprocessing.
 
-## 🛠️ Usage Example (Python & Pandas)
+## 🛠️ Usage Example (Python & Pandas) (To be updated)
 
 Get started analyzing this dataset quickly using Python:
 
@@ -75,7 +75,7 @@ revenue_by_product = df.groupby('Product')['Sales'].sum().sort_values(ascending=
 print("Revenue by Product:\n", revenue_by_product)
 ```
 
-## 💡 Potential Projects & Analysis Directions
+## 💡 Potential Projects & Analysis Directions (To be updated)
 1. **Sales Performance Dashboards:** Create interactive Tableau or Power BI visualizations mapping regional performance by salesperson.
 2. **Predictive Modeling:** Build machine learning regression models to predict expected order values or customer quantity demands.
 3. **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
