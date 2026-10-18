@@ -77,3 +77,8 @@ print("Revenue by Product:\n", revenue_by_product)
 1. **Sales Performance Dashboards:** Create interactive Tableau or Power BI visualizations mapping regional performance by salesperson.
 2. **Predictive Modeling:** Build machine learning regression models to predict expected order values or customer quantity demands.
 3. **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
+
+## 🛠️ Tools Used
+1. Python (Google Colab) – Data cleaning, combining datasets, data analysis, charts and predictive modelling.
+2. Power BI – Creating interactive dashboards to analyse sales, customers and products.
+3. GitHub – Storing project files, documentation and tracking project progress.
