@@ -21,13 +21,12 @@ These datasets support exploratory data analysis (EDA), sales performance analys
 
 ## 📋 Dataset Overview
 
-* **File Name:** `product_sales_practice.csv`
-* **Time Horizon:** January 2026 – June 2026
-* **Target Category:** Electronics
-* **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
+* **File Name:** `customer.csv and purchase.csv`
+* **Time Horizon:** TBA YYYY - TBA YYYY
+* **Target Category:** Retail Customer Purchases
+* **Key Entities:** Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
 
-  Link to Jupyter Notebook in Google Colab:
-  https://colab.research.google.com/drive/1zdPR2ig9qFp6Q1gPrZvky3Ac7UITW3Mv?usp=sharing
+  Link to Jupyter Notebook in Google Colab: To be added later
    
 ## 🗂️ Data Dictionary
 
