@@ -5,11 +5,11 @@
 How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
 
 ## Research Objectives
-1. Identify sales trends and purchasing patterns to uncover opportunities to increase revenue.
-2. Analyse product performance to identify best-selling products and optimise sales strategies.
-3. Examine customer demographics and spending behaviour to improve customer targeting.
-4. Identify high-value customers based on spending and purchase frequency to improve customer retention.
-5. Develop a predictive model to identify customers with higher spending potential and support sales decisions.
+1. Identify and interpret sales and purchasing trends to increase revenue.
+2. Improve sales through analysis of products to determine top sellers.
+3. Understand customer demographics and spending to create targeted marketing.
+4. Find the best customers (spend and purchasing frequency) to build long term relationships.
+5. Create a model to forecast customers' annual spending to define sales targets.
 
 <h1>Retail Customer and Purchase Datasets📊</h1>
 
