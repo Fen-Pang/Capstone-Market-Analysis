@@ -1,7 +1,7 @@
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
 <add image>
 
-## Business Problem Statement
+## Problem Statement
 How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
 
 ## Research Objectives
