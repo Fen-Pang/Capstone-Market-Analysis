@@ -4,7 +4,7 @@
 ## Problem Statement
 How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
 
-## Research Objectives
+## 5 Research Objectives
 1. Identify and interpret sales and purchasing trends to increase revenue.
 2. Improve sales through analysis of products to determine top sellers.
 3. Understand customer demographics and spending to create targeted marketing.
