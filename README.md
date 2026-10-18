@@ -96,9 +96,9 @@ purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d
 ```
 
 ## 💡 Potential Projects & Analysis Directions (To be updated)
-1. **Sales Performance Dashboards:** Create interactive Tableau or Power BI visualizations mapping regional performance by salesperson.
-2. **Predictive Modeling:** Build machine learning regression models to predict expected order values or customer quantity demands.
-3. **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
+1. (To be updated) **Sales Performance Dashboards:** Create interactive Tableau or Power BI visualizations mapping regional performance by salesperson.
+2. (To be updated) **Predictive Modeling:** Build machine learning regression models to predict expected order values or customer quantity demands.
+3. (To be updated) **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
