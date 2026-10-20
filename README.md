@@ -66,14 +66,15 @@ Contains 50,000 purchases and 11 features.
 
 ## 🔍 Data Quality & Cleaning Notes
 
-Initial checks and data cleaning were completed in Google Colab.
-
-- The customer dataset contains 1,001 records and 7 columns.
-- The purchase dataset contains 50,000 records and 11 columns.
-- No missing values were found in both datasets.
-- No duplicate rows were found in both datasets.
-- Converted `order_date` and `shipping_date` into datetime format.
-- Checked gender, country and product names. No obvious inconsistencies were found.
+Data checking and preparation were completed using Python in Google Colab.
+- Customer dataset: 1,001 rows and 7 columns
+- Purchase dataset: 50,000 rows and 11 columns
+- No missing values or duplicate rows were found
+- Customer IDs and order IDs were checked and found to be unique
+- Checked gender, country and product names. No obvious inconsistencies were found
+- Converted order_date and shipping_date to datetime format
+- Calculated sales revenue after discounts
+Based on these checks, no further data cleaning was needed. The prepared datasets were saved as customer_cleaned.csv and purchase_cleaned.csv for Power BI.
 
 ## 🛠️ Usage Example (Python & Pandas)
 
