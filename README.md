@@ -74,6 +74,7 @@ Data checking and preparation were completed using Python in Google Colab.
 - Checked gender, country and product names. No obvious inconsistencies were found
 - Converted order_date and shipping_date to datetime format
 - Calculated sales revenue after discounts
+
 Based on these checks, no further data cleaning was needed. The prepared datasets were saved as customer_cleaned.csv and purchase_cleaned.csv for Power BI.
 
 ## 🛠️ Usage Example (Python & Pandas)
@@ -100,7 +101,7 @@ purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d
 Based on the analysis in Google Colab:
 1. Sales Trends: Total actual sales revenue was approximately $263.69 million. Monthly sales were mostly around $6 to $7 million.
 2. Product Sales: Curtains generated the highest revenue ($18.62 million), while Sports Shoes had the highest quantity sold (9,642 units).
-3. Customer Demographics: Slightly more male customers with customers aged 51 had the highest average spending per purchase.
+3. Customer Demographics: Male customers generated slightly higher sales than female customers. Customers aged 51 had the highest average spending per purchase.
 4. High Value Customers: Customer CS00609 recorded the highest total spending ($446,568.14).
 5. Sales by Country: Highest is Colombia ($74.37 million) and lowest is Brazil ($60.79 million).
 
