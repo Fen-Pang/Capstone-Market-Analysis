@@ -25,11 +25,11 @@ These datasets can be used for exploratory data analysis (EDA), sales performanc
 ## 📋 Dataset Overview
 
 * **File Name:** `customer.csv and purchase.csv`
-* **Time Horizon:** TBA YYYY - TBA YYYY
+* **Time Horizon:** Aug 2019 - Jan 2023
 * **Target Category:** Retail Customer Purchases
 * **Key Entities:** Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
 
-  Link to Jupyter Notebook in Google Colab: To be added later
+  Link to Google Colab Notebook: https://colab.research.google.com/drive/12rAB9Mje8lND-tTlanhnksDgYOUWpMtP#scrollTo=8lWK9xViT9wn&uniqifier=1
    
 ## 📁 Data Dictionary
 The project uses two datasets with a total of 18 features.
