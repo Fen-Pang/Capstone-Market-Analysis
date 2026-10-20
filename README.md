@@ -96,10 +96,13 @@ purchase['order_date'] = pd.to_datetime(purchase['order_date'], format='%d/%m/%Y
 purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d/%m/%Y')
 ```
 
-## 💡 Potential Projects & Analysis Directions (To be updated)
-1. (To be updated) **Sales Performance Dashboards:** Create interactive Tableau or Power BI visualizations mapping regional performance by salesperson.
-2. (To be updated) **Predictive Modeling:** Build machine learning regression models to predict expected order values or customer quantity demands.
-3. (To be updated) **Discount Impact Studies:** Assess whether offering a $10\%$ vs $15\%$ discount yields a statistically significant increase in total items sold.
+## 💡 Key Findings from Python Analysis
+Based on the analysis in Google Colab:
+1. Sales Trends: Total actual sales revenue was approximately $263.69 million. Monthly sales were mostly around $6 to $7 million.
+2. Product Sales: Curtains generated the highest revenue ($18.62 million), while Sports Shoes had the highest quantity sold (9,642 units).
+3. Customer Demographics: Slightly more male customers with customers aged 51 had the highest average spending per purchase.
+4. High Value Customers: Customer CS00609 recorded the highest total spending ($446,568.14).
+5. Sales by Country: Highest is Colombia ($74.37 million) and lowest is Brazil ($60.79 million).
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
