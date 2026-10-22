@@ -14,7 +14,7 @@ How can customer demographics, buying patterns and product performance be used t
 4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
-<h1>Dataset Introduction📊</h1>
+## 📊 Dataset Introduction
 
 This project uses customer and purchase datasets to perform Exploratory Data Analysis (EDA) on retail sales performance, product sales and customer purchasing behaviour. The analysis aims to identify high-value customers and opportunities to improve retail sales.
 <img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
@@ -83,27 +83,20 @@ Based on the analysis in Google Colab:
 5. Sales by Country: Highest is Colombia ($74.37 million) and lowest is Brazil ($60.79 million).
 
 ## 📊 Power BI Dashboard – Descriptive Analytics
-Dashboard 1: Sales & Product Performance
-This dashboard focuses on Research Objectives 1, 2 and 5. It shows monthly sales trends, best-selling products by revenue and quantity sold, and sales performance across different countries.
 
-Key Observations:
-- Total sales revenue was approximately $263.69 million.
-- Curtains generated the highest revenue ($18.62 million), while Sports Shoes had the highest quantity sold (9,642 units).
-- Colombia recorded the highest sales revenue ($74.37 million), while Brazil recorded the lowest ($60.79 million).
+### Dashboard 1: Sales & Product Performance
+This dashboard supports Research Objectives 1, 2 and 5. It visualises monthly sales trends, product performance by revenue and quantity sold, and sales performance across countries.
 
-These findings help identify strong-performing products and markets, supporting decisions on product strategies and sales opportunities.
-## **[Dashboard 1 Screenshot – To Be Added]**
+These visualisations help identify best-selling products, sales patterns and potential opportunities for revenue growth.
 
-Dashboard 2: Customer Analysis
-This dashboard focuses on Research Objectives 3 and 4. It compares customer spending by gender and age, and identifies the top 10 customers based on total spending.
+**[Dashboard 1 Screenshot – To Be Added]**
 
-Key Observations:
-- Male customers generated slightly higher total sales than female customers.
-- Customers aged 51 had the highest average spending per purchase.
-- Customer CS00609 recorded the highest total spending ($446,568.14).
+### Dashboard 2: Customer Analysis
+This dashboard supports Research Objectives 3 and 4. It compares customer spending by gender and age, and identifies the top 10 customers based on total spending.
 
-These findings help identify valuable customer groups and high-spending customers who may be suitable for targeted marketing and retention strategies.
-## **[Dashboard 2 Screenshot – To Be Added]**
+These visualisations help identify high-spending customers and customer groups that may benefit from targeted marketing and retention strategies.
+
+**[Dashboard 2 Screenshot – To Be Added]**
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
