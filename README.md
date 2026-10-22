@@ -105,6 +105,30 @@ Based on the analysis in Google Colab:
 4. High Value Customers: Customer CS00609 recorded the highest total spending ($446,568.14).
 5. Sales by Country: Highest is Colombia ($74.37 million) and lowest is Brazil ($60.79 million).
 
+## 📊 Power BI Dashboard – Descriptive Analytics
+Dashboard 1: Sales & Product Performance
+This dashboard focuses on Research Objectives 1, 2 and 5. It shows monthly sales trends, best-selling products by revenue and quantity sold, and sales performance across different countries.
+
+Key Observations:
+- Total sales revenue was approximately $263.69 million.
+- Curtains generated the highest revenue ($18.62 million), while Sports Shoes had the highest quantity sold (9,642 units).
+- Colombia recorded the highest sales revenue ($74.37 million), while Brazil recorded the lowest ($60.79 million).
+
+These findings help identify strong-performing products and markets, supporting decisions on product strategies and sales opportunities.
+[Dashboard 1 Screenshot – To Be Added]
+
+Dashboard 2: Customer Analysis
+This dashboard focuses on Research Objectives 3 and 4. It compares customer spending by gender and age, and identifies the top 10 customers based on total spending.
+
+Key Observations:
+- Male customers generated slightly higher total sales than female customers.
+- Customers aged 51 had the highest average spending per purchase.
+- Customer CS00609 recorded the highest total spending ($446,568.14).
+
+These findings help identify valuable customer groups and high-spending customers who may be suitable for targeted marketing and retention strategies.
+
+[Dashboard 2 Screenshot – To Be Added]
+
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
 2. Power BI – Creating interactive dashboards to analyse sales, customers and products.
