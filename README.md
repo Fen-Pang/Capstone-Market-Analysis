@@ -15,11 +15,7 @@ How can customer demographics, buying patterns and product performance be used t
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
 <h1>Retail Customer and Purchase Datasets📊</h1>
-
-This repository contains two datasets, customer.csv and purchase.csv, covering customer demographics, purchasing behaviour and retail product sales transactions. It include customer information such as age, gender, income and country, alongside purchase details such as product names, prices, quantities, order dates and shipping costs.
-
-These datasets can be used for exploratory data analysis (EDA), sales performance analysis, customer segmentation and product performance analysis to better understand customer purchasing behaviour and identify sales opportunities.
-
+This project uses customer and purchase datasets to perform Exploratory Data Analysis (EDA) on retail sales performance, product sales and customer purchasing behaviour. The analysis aims to identify high-value customers and opportunities to improve retail sales.
 <img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
 
 ## 📋 Dataset Overview
