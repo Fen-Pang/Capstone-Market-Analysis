@@ -29,7 +29,7 @@ This project uses customer and purchase datasets to perform Exploratory Data Ana
   Link to Google Colab Notebook: https://colab.research.google.com/drive/12rAB9Mje8lND-tTlanhnksDgYOUWpMtP#scrollTo=8lWK9xViT9wn&uniqifier=1
    
 ## 📁 Data Dictionary
-The project uses two datasets with a total of 18 columns across two datasets.
+The project uses two datasets containing 18 columns in total.
 
 ### Customer Dataset (customer.csv)
 Contains 1,001 customers and 7 features.
