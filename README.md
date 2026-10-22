@@ -14,7 +14,7 @@ How can customer demographics, buying patterns and product performance be used t
 4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
-<h1>Retail Customer and Purchase Datasets📊</h1>
+<h1>Dataset Introduction📊</h1>
 
 This project uses customer and purchase datasets to perform Exploratory Data Analysis (EDA) on retail sales performance, product sales and customer purchasing behaviour. The analysis aims to identify high-value customers and opportunities to improve retail sales.
 <img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
@@ -73,26 +73,6 @@ Data checking and preparation were completed using Python in Google Colab.
 - Calculated sales revenue after discounts
 
 Based on these checks, no further data cleaning was needed. The prepared datasets were saved as customer_cleaned.csv and purchase_cleaned.csv for Power BI.
-
-## 🛠️ Usage Example (Python & Pandas)
-
-Get started analysing these datasets using Python:
-
-```python
-import pandas as pd
-
-# Load datasets
-customer = pd.read_csv('https://raw.githubusercontent.com/Fen-Pang/Capstone-Market-Analysis/main/customer.csv')
-purchase = pd.read_csv('https://raw.githubusercontent.com/Fen-Pang/Capstone-Market-Analysis/main/purchase.csv')
-
-# Check datasets
-print(customer.shape)
-print(purchase.shape)
-
-# Convert dates
-purchase['order_date'] = pd.to_datetime(purchase['order_date'], format='%d/%m/%Y')
-purchase['shipping_date'] = pd.to_datetime(purchase['shipping_date'], format='%d/%m/%Y')
-```
 
 ## 💡 Key Findings from Python Analysis
 Based on the analysis in Google Colab:
