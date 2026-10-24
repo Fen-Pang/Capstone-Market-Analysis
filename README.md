@@ -2,7 +2,6 @@
 **Datasets Used: Customer.csv and Purchase.csv**
 
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
-<add image>
 
 ## Problem Statement
 How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
