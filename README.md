@@ -4,10 +4,10 @@
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
 
 ## Problem Statement
-How can customer demographics, buying patterns and product performance be used to identify high-value customers and enhance retail sales?
+How can customer demographics, buying patterns and product performance be used to identify high-value customers and improve retail sales?
 
 ## 5 Research Objectives
-1. Analyse sales and purchasing trends to identify opportunities to increase revenue.
+1. Analyse sales and purchasing trends to understand how sales change over time.
 2. Identify best-selling products and their contribution to overall sales to improve product strategies.
 3. Analyse customer demographics and spending behaviour to improve customer targeting.
 4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
