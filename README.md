@@ -92,6 +92,11 @@ This dashboard supports Research Objectives 3 and 4. It compares customer spendi
 These visualisations help identify high-spending customers and customer groups that may benefit from targeted marketing and retention strategies.
 <img width="880" height="512" alt="image" src="https://github.com/user-attachments/assets/ffd7442b-cdc5-444a-bd02-57731ca0458f" />
 
+## 📈 Predictive Analytics – Simple Linear Regression
+Simple Linear Regression was used to analyse monthly sales trends using 40 complete months of data (September 2019 – December 2022).
+
+The R-squared value was 0.0241, indicating that the model does not explain monthly sales well. Therefore, it may not be reliable for predicting future sales.
+
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
 2. Power BI – Creating interactive dashboards to analyse sales, customers and products.
