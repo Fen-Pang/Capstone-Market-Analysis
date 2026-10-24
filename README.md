@@ -14,19 +14,16 @@ How can customer demographics, buying patterns and product performance be used t
 4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
-## 📊 Dataset Introduction
+## 📊 Dataset Overview
 
-This project uses customer and purchase datasets to perform Exploratory Data Analysis (EDA) on retail sales performance, product sales and customer purchasing behaviour. The analysis aims to identify high-value customers and opportunities to improve retail sales.
-<img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
+This project uses customer and purchase datasets to analyse retail sales performance, product sales and customer purchasing behaviour. The aim is to identify high-value customers and opportunities to improve retail sales.
 
-## 📋 Dataset Overview
+- Files Used: customer.csv and purchase.csv
+- Time Horizon: August 2019 – January 2023
+- Target Category: Retail Customer Purchases
+- Key Entities: Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
 
-* **File Name:** `customer.csv and purchase.csv`
-* **Time Horizon:** Aug 2019 - Jan 2023
-* **Target Category:** Retail Customer Purchases
-* **Key Entities:** Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
-
-  Link to Google Colab Notebook: https://colab.research.google.com/drive/12rAB9Mje8lND-tTlanhnksDgYOUWpMtP#scrollTo=8lWK9xViT9wn&uniqifier=1
+Google Colab Notebook: https://colab.research.google.com/drive/12rAB9Mje8lND-tTlanhnksDgYOUWpMtP
    
 ## 📁 Data Dictionary
 The project uses two datasets containing 18 columns in total.
