@@ -1,5 +1,5 @@
 **Prepared By: Pang Fuh Yun (Fen)**<br>
-**Datasets Used: Customer.csv and Purchase.csv**
+**Datasets Used: customer.csv and purchase.csv**
 
 # [Capstone Project] Market Analysis – Retail Customer Purchase Analytics
 
@@ -8,9 +8,9 @@ How can customer demographics, buying patterns and product performance be used t
 
 ## 5 Research Objectives
 1. Analyse sales and purchasing trends to understand how sales change over time.
-2. Identify best-selling products and their contribution to overall sales to understand which products perform best.
+2. Identify best-selling products and their contribution to overall sales.
 3. Analyse customer demographics and spending behaviour to understand different customer groups.
-4. Identify high-value customers based on total spending and purchase frequency to identify customers who spend the most.
+4. Identify high-value customers based on total spending and purchase frequency.
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
 ## 📊 Dataset Overview
