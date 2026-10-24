@@ -45,7 +45,7 @@ Contains 50,000 purchases and 11 features.
 
 | Column Name | Data Type | Description | Example Value |
 | :--- | :--- | :--- | :--- |
-| **order_id** | String | A unique ID for each order. | `Order ID` |
+| **order_id** | String | A unique ID for each order. | `ODSHP00001` |
 | **customer_id** | String | The ID of the customer who made the purchase. | `CS00001` |
 | **product_name** | String | The name of the product purchased. | `Furniture` |
 | **description** | String | Description of the product. | `Product description` |
@@ -63,7 +63,7 @@ Data checking and preparation were completed using Python in Google Colab.
 - Customer dataset: 1,001 rows and 7 columns
 - Purchase dataset: 50,000 rows and 11 columns
 - No missing values or duplicate rows were found
-- Customer IDs and order IDs were checked and found to be unique
+- Checked customer IDs in the customer dataset and order IDs in the purchase dataset. Both were unique.
 - Checked gender, country and product names. No obvious inconsistencies were found
 - Converted order_date and shipping_date to datetime format
 - Calculated sales revenue after discounts
