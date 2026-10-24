@@ -48,14 +48,14 @@ Contains 50,000 purchases and 11 features.
 | **order_id** | String | A unique ID for each order. | `ODSHP00001` |
 | **customer_id** | String | The ID of the customer who made the purchase. | `CS00001` |
 | **product_name** | String | The name of the product purchased. | `Furniture` |
-| **description** | String | Description of the product. | `Product description` |
+| **description** | String | Description of the product. | `Transform your space with this stylish and functional furniture.` |
 | **price** | Float | The price of the product. | `20.02` |
 | **discount** | Float | Discount applied to the purchase. | `0.25` (25%) |
 | **tax** | Float | Tax applied to the purchase. | `0.05` (5%) |
-| **order_date** | Date | The date the order was placed. | `DD/MM/YYYY` |
+| **order_date** | Date | The date the order was placed. | `26/5/2020` |
 | **quantity** | Integer | The number of units purchased. | `5` |
 | **shipping_cost** | Float | The shipping cost of the order. | `27.50` |
-| **shipping_date** | Date | The date the order was shipped. | `DD/MM/YYYY` |
+| **shipping_date** | Date | The date the order was shipped. | `29/5/2020` |
 
 ## 🔍 Data Quality & Cleaning Notes
 
