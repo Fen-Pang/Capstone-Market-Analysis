@@ -8,9 +8,9 @@ How can customer demographics, buying patterns and product performance be used t
 
 ## 5 Research Objectives
 1. Analyse sales and purchasing trends to understand how sales change over time.
-2. Identify best-selling products and their contribution to overall sales to improve product strategies.
-3. Analyse customer demographics and spending behaviour to improve customer targeting.
-4. Identify high-value customers based on total spending and purchase frequency to support customer retention.
+2. Identify best-selling products and their contribution to overall sales to understand which products perform best.
+3. Analyse customer demographics and spending behaviour to understand different customer groups.
+4. Identify high-value customers based on total spending and purchase frequency to identify customers who spend the most.
 5. Compare sales performance across different customer groups and countries to identify opportunities for sales growth.
 
 ## 📊 Dataset Overview
@@ -19,8 +19,8 @@ This project uses customer and purchase datasets to analyse retail sales perform
 
 - Files Used: customer.csv and purchase.csv
 - Time Horizon: August 2019 – January 2023
-- Target Category: Retail Customer Purchases
-- Key Entities: Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
+- Analysis Focus: Retail Customer Purchases
+- Main Data: Customer Demographics, Purchase Transactions, Product Sales, Revenue and Customer Spending
 
 Google Colab Notebook: https://colab.research.google.com/drive/12rAB9Mje8lND-tTlanhnksDgYOUWpMtP
    
