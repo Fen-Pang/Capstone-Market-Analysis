@@ -83,13 +83,13 @@ Based on the analysis in Google Colab:
 ### Dashboard 1: Sales & Product Performance
 This dashboard supports Research Objectives 1, 2 and 5. It visualises monthly sales trends, product performance by revenue and quantity sold, and sales performance across countries.
 
-These visualisations help identify best-selling products, sales patterns and potential opportunities for revenue growth.
+The dashboard shows best-selling products, sales patterns and areas where sales could improve.
 <img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/1cc521a4-bca0-4a72-b6c2-ec8af7f614ab" />
 
 ### Dashboard 2: Customer Analysis
 This dashboard supports Research Objectives 3 and 4. It compares customer spending by gender and age, and identifies the top 10 customers based on total spending.
 
-These visualisations help identify high-spending customers and customer groups that may benefit from targeted marketing and retention strategies.
+These visualisations help identify high-spending customers and customer groups that could be useful for future marketing activities.
 <img width="880" height="512" alt="image" src="https://github.com/user-attachments/assets/ffd7442b-cdc5-444a-bd02-57731ca0458f" />
 
 ## 📈 Predictive Analytics – Simple Linear Regression
