@@ -98,7 +98,7 @@ These visualisations help identify high-spending customers and customer groups t
 ## 📈 Predictive Analytics – Simple Linear Regression
 Simple Linear Regression was used to analyse monthly sales trends using 40 complete months of data (September 2019 – December 2022).
 
-The R-squared value was 0.0241, indicating that the model does not explain monthly sales well. Therefore, it may not be reliable for predicting future sales.
+The R-squared value was 0.0241, meaning the linear time trend explained only 2.41% of the variation in monthly sales. The model showed a slight downward trend but was not reliable for forecasting future sales.
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
