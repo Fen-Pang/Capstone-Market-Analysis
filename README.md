@@ -95,10 +95,13 @@ This dashboard supports Research Objectives 3 and 4. It compares customer spendi
 These visualisations help identify high-spending customers and customer groups that could be useful for future marketing activities.
 <img width="880" height="512" alt="image" src="https://github.com/user-attachments/assets/ffd7442b-cdc5-444a-bd02-57731ca0458f" />
 
-## 📈 Predictive Analytics – Simple Linear Regression
-Simple Linear Regression was used to analyse monthly sales trends using 40 complete months of data (September 2019 – December 2022).
 
-The R-squared value was 0.0241, meaning the linear time trend explained only 2.41% of the variation in monthly sales. The model showed a slight downward trend but was not reliable for forecasting future sales.
+## 📈 Predictive Analytics – Multiple Linear Regression
+I used Multiple Linear Regression to predict sales revenue per purchase using five independent variables: Month Number, Customer Age, Gender, Country and Product Name.
+
+The R² score was 0.3555 (35.55%), showing that the model could explain some of the differences in purchase values, but the prediction accuracy was limited.
+
+I also tested Customer Income instead of Month Number, but the R² was slightly lower at 0.3549 (35.49%). Therefore, I kept the original model.
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
