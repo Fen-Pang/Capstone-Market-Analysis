@@ -97,11 +97,14 @@ These visualisations help identify high-spending customers and customer groups t
 
 
 ## 📈 Predictive Analytics – Multiple Linear Regression
-I used Multiple Linear Regression to predict sales revenue per purchase using five independent variables: Month Number, Customer Age, Gender, Country and Product Name.
 
-The R² score was 0.3555 (35.55%), showing that the model could explain some of the differences in purchase values, but the prediction accuracy was limited.
+I used Multiple Linear Regression to predict sales revenue per individual purchase (Y) using five independent variables (X): Month Number, Customer Age, Gender, Country and Product Name.
 
-I also tested Customer Income instead of Month Number, but the R² was slightly lower at 0.3549 (35.49%). Therefore, I kept the original model.
+I selected these variables to explore how customer characteristics, product choices and purchase timing relate to individual purchase values.
+
+Using an 80/20 training and testing split, the model achieved an R² of 35.55%.
+
+I also tested replacing Month Number with Customer Income, but the R² was slightly lower at 35.49%. Therefore, I kept my original model.
 
 ## 🛠️ Tools Used
 1. Python (Google Colab) – Data cleaning, combining datasets, data analysis and charts.
