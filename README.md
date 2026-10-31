@@ -61,8 +61,6 @@ Contains 50,000 purchases and 11 features.
 
 ## 🔍 Data Quality & Cleaning Notes
 
-## 🔍 Data Quality & Cleaning Notes
-
 Data checking and preparation were completed using Python in Google Colab.
 
 - Customer dataset: 1,001 rows and 7 columns
