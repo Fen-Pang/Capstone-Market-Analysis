@@ -61,15 +61,20 @@ Contains 50,000 purchases and 11 features.
 
 ## 🔍 Data Quality & Cleaning Notes
 
+## 🔍 Data Quality & Cleaning Notes
+
 Data checking and preparation were completed using Python in Google Colab.
+
 - Customer dataset: 1,001 rows and 7 columns
 - Purchase dataset: 50,000 rows and 11 columns
 - No missing values or duplicate rows were found
 - Checked customer IDs in the customer dataset and order IDs in the purchase dataset. Both were unique.
-- Checked gender, country and product names. No obvious inconsistencies were found
-- Converted order_date and shipping_date to datetime format
-- Calculated sales revenue after discounts
+- Checked gender, country and product names. No obvious inconsistencies were found.
+- Converted order_date and shipping_date to datetime format.
+- Calculated sales revenue after discounts.
 - Used a box plot to check purchase-price outliers. Some unusually high prices were identified as potential outliers, but no records were removed solely because of their high values.
+- All 50,000 purchases were made by 1,000 customers. One customer had no recorded purchases.
+- All 1,000 purchasing customers made exactly 50 purchases each.
 
 Based on these checks, no further data cleaning was needed. The prepared datasets were saved as customer_cleaned.csv and purchase_cleaned.csv for Power BI.
 
